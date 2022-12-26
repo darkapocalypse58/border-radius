@@ -1,0 +1,30 @@
+#square{
+    border-radius:  ;
+    border-color:black;
+    border-style:solid;
+    width: 250px;
+    height: 250px;
+    
+}
+#top-left-rad{
+    margin-left: 580px;
+    margin-right: 220px;
+    width: 30px;
+    height: 30px;
+}
+
+#top-right-rad{
+    width: 30px;
+    height: 30px;
+}
+#bottom-right-rad{
+    width: 30px;
+    height: 30px;
+}
+
+#bottom-left-rad{
+    width: 30px;
+    height: 30px;
+    margin-left: 580px;
+    margin-right: 220px;
+}
